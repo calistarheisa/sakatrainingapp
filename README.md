@@ -2,7 +2,7 @@
 
 **Deskripsi**  
 Aplikasi berbasis **R Shiny** untuk mengelola dan menganalisis data evaluasi serta rekam jejak pelatihan karyawan.  
-Hasil dashboard dapat dilihat pada link berikut: [sakatrainingpp](https://calistarheisa.shinyapps.io/sakatrainingapp/) 
+Hasil dashboard dapat dilihat pada link berikut: [sakatrainingpp](https://calistarheisa.shinyapps.io/sipltrainingapp/) 
 
 ---
 
